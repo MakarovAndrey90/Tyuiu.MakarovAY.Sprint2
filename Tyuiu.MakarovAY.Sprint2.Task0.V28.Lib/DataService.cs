@@ -13,7 +13,7 @@ namespace Tyuiu.MakarovAY.Sprint2.Task0.V28.Lib
             res[4] = x * 7 <= y;
             res[5] = x >= y;
 
-            return res; //2
+            return res;
         }
     }
 }

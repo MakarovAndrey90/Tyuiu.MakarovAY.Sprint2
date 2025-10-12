@@ -34,7 +34,7 @@ namespace Tyuiu.MakarovAY.Sprint1.Task7.V4
                 Console.WriteLine(res[i]);
             }
 
-                Console.ReadKey(); //2 
+                Console.ReadKey();
         }
     }
 }
