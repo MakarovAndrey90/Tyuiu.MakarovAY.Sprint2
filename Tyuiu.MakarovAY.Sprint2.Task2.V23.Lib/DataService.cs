@@ -2,7 +2,7 @@
 
 namespace Tyuiu.MakarovAY.Sprint2.Task2.V23.Lib
 {
-    public class DataService : ISprint2Task2V28
+    public class DataService : ISprint2Task2V23
     {
         public bool CheckDotInShadedArea(int x, int y)
         {
