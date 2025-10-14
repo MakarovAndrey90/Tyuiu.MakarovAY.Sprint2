@@ -10,13 +10,13 @@ namespace Tyuiu.MakarovAY.Sprint1.Task7.V4
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
 
-            Console.Title = "Спринт #2 | Выполнил: Макаров А. М. | РППб-25-1";
+            Console.Title = "Спринт #2 | Выполнил: Макаров А. Я. | РППб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #28                                                             *");
-            Console.WriteLine("* Выполнил: Макаров А. М.   | РППб-25-1                                   *");
+            Console.WriteLine("* Выполнил: Макаров А. Я.   | РППб-25-1                                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу из операций сравнений                                *");
